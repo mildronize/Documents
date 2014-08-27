@@ -1,6 +1,8 @@
 
 # Real-Time Operating System
 
+## Lecture 1
+
 Real-Time Operating System = RTOS
 RTOS != Embedded System
 
@@ -17,3 +19,10 @@ Abacus = ลูกคิด
 **Enigma Machine** is the machine can encrypt a text.
 
 > Written with [StackEdit](https://stackedit.io/).
+
+## Lecture 2
+
+An Operating System is a program that
+- provides an "Abstractioin"
+- 
+
