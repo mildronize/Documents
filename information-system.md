@@ -1,10 +1,7 @@
 # Information System and Management
 
-- Chapter 1: An introduction to Information Systems
-- Chapter 2:
-- Chapter 3:
-- Chapter 4:
-- Chapter 5:
+### Table of Contents
+**[Chapter 1: An introduction to Information Systems](#chapter-1-an-introduction-to-information-systems)**  
 
 # Chapter 1: An introduction to Information Systems
 
@@ -49,5 +46,5 @@ information system ถูกใช้อาชีพพวก sale ขายข�
   
 # Data Information และ Knowledge คืออะไร
   - Data คือ Raw fact ประมาณว่าคือสิ่งที่เป็นจริงไม่ได้ผ่านการจัดการหรือกลั่นกรองใดๆ 
-  - Information 
+  - Information คือ การรวบรวม fact ท
   
